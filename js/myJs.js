@@ -5,13 +5,13 @@ const textConfig = {
   text4: "Nếu cậu không trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
   text5: "Cậu mơ à???",
   text6: "Yêu ơi là yêu <3",
-  text7: "lí do cậu thích tớ đi :vvvv",
+  text7: "Lí do cậu thích tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
   text9: "Vì cậu vừa đẹp trai lại còn vui tính.",
   text10: "Tớ biết mà ^^ Yêu cậu bằng đúng con tim này.",
   text11:
-    "Sau này làm vợ con trai út của mẹ anh nhé <3 Còn giờ thì chờ gì nữa mà không inbox cho tớ đi nàooo",
-  text12: "Okii lunn <3",
+    "Sau này làm vợ con trai út của mẹ tớ nhé <3 Còn giờ thì chờ gì nữa mà không nhắn tin cho tớ đi nàooo",
+  text12: "Đồng ý luôn <3",
 };
 
 $(document).ready(function () {
