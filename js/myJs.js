@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì cậu vừa đẹp trai lại còn vui tính.",
   text10: "Tớ biết mà ^^ Yêu cậu bằng đúng con tim này.",
   text11:
-    "Sau này làm vợ con trai út của mẹ tớ nhé <3 Còn giờ thì chờ gì nữa mà không nhắn tin cho tớ đi nàooo",
+    "Sau này làm vợ con trai út của mẹ tớ nhé <3 Còn giờ thì chờ gì nữa mà không nhắn tin cho tớ đi nàooo!",
   text12: "Đồng ý luôn <3",
 };
 
